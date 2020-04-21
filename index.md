@@ -9,4 +9,8 @@
 >**main**
 - Noticia actualizadas.
 - Experiencias de nuestros cliente.
-
+>**aside**
+- Barra lateral con funcionalidades varias.
+>**footer**
+- Accesos directos.
+- Identificacion de la Empresa.
