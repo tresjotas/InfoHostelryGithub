@@ -7,10 +7,11 @@
 - Nombre de la empresa.
 - Acceso plataforma.
 >**main**
-- Noticia actualizadas.
+- Noticias actualizadas.
 - Experiencias de nuestros cliente.
 >**aside**
 - Barra lateral con funcionalidades varias.
 >**footer**
 - Accesos directos.
 - Identificacion de la Empresa.
+- Chatbox (Soporte 24/7).
