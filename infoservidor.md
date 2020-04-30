@@ -1,4 +1,4 @@
 # Servidor AWS de Amazon
 ## www.infohostelry.com
 
-En construcción...
+En construcción... Disculpen las molestias!
