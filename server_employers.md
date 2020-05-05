@@ -3,9 +3,16 @@
 ### Empleados | Jerarquia | Diagrama
 
 *Empleados
+	- Jose Jerez
 	- Luis Illa
 *Jerarquia
-	- Maximo Responsable: Luis Illa
-*Diagrama 
+	- CEO: Jose Jerez
+	- COO: Luis Illa
+*Diagrama
 
-	-Luis Illa-
+	-Luis Illa- -Jose Jerez-
+
+	
+
+
+	
